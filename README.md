@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qamarsultan7" alt="qamarsultan7" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working in **Flutter**
 
 - 📫 How to reach me **qamarsultan312278@gmail.com**
 
