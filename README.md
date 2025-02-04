@@ -29,11 +29,27 @@
 
 
 <h1 align="center">Here Are Some Of My Projects 💎✔</h1>
-<h2 align="center">Asaan Kissan </h2>
-![Asan Kissan (Qamar)](https://github.com/user-attachments/assets/c5318354-a0e3-4739-9b08-0daae8f8d2b0)
-<h2 align="center">Weather Apph</h2>
-![weather app Qamar Sultan](https://github.com/user-attachments/assets/43b98fa2-2631-4034-a3ac-098c41efcfc1)
-<h2 align="center">Wallpaper App</h2>
-![Wallaper App Mockup](https://github.com/user-attachments/assets/ab014539-9bf5-4248-b0e7-11d3529b5b6e)
-<h2 align="center">Nikee Boots Full app UI DEsign</h2>
-![nikeeboots (Qamar sultan)](https://github.com/user-attachments/assets/86d9d5ae-d778-45dd-85d0-41cb68f1855f)
+
+<table>
+  <tr>
+    <td align="center">
+      <h2>Asaan Kissan</h2>
+      <img src="https://github.com/user-attachments/assets/c5318354-a0e3-4739-9b08-0daae8f8d2b0" width="400"/>
+    </td>
+    <td align="center">
+      <h2>Weather App</h2>
+      <img src="https://github.com/user-attachments/assets/43b98fa2-2631-4034-a3ac-098c41efcfc1" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>Wallpaper App</h2>
+      <img src="https://github.com/user-attachments/assets/ab014539-9bf5-4248-b0e7-11d3529b5b6e" width="400"/>
+    </td>
+    <td align="center">
+      <h2>Nikee Boots UI Design</h2>
+      <img src="https://github.com/user-attachments/assets/86d9d5ae-d778-45dd-85d0-41cb68f1855f" width="400"/>
+    </td>
+  </tr>
+</table>
+
