@@ -1,4 +1,4 @@
-![nikeeboots (Qamar sultan)](https://github.com/user-attachments/assets/cde74e0c-41fd-4931-bdca-254cce110fd6)<h1 align="center">Hi 👋, This is Qamar Sultan</h1>
+<h1 align="center">Hi 👋, This is Qamar Sultan</h1>
 <h3 align="center">A top-notch Flutter Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qamarsultan7&label=Profile%20views&color=0e75b6&style=flat" alt="qamarsultan7" /> </p>
