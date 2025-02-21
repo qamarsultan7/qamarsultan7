@@ -26,8 +26,6 @@ I'm available for freelance projects, you can reach out to me.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/flutterverse"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/flutterverse" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qamarsultan7&show_icons=true&locale=en&layout=compact" alt="qamarsultan7" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qamarsultan7&show_icons=true&locale=en" alt="qamarsultan7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qamarsultan7&" alt="qamarsultan7" /></p>
