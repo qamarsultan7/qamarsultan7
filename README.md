@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, This is Qamar Sultan</h1>
 <h3 align="center">A top-notch Flutter Developer from Pakistan</h3>
 
+I'm a skilled app developer in Flutter. I love to discover new things. 
+I enjoy creating interfaces that are easy to use and look great. 
+My aim always to make apps that stand out and give users a fantastic experience.
+I'm available for freelance projects, you can reach out to me.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qamarsultan7&label=Profile%20views&color=0e75b6&style=flat" alt="qamarsultan7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qamarsultan7" alt="qamarsultan7" /></a> </p>
