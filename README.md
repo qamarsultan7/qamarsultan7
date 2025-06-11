@@ -47,6 +47,16 @@ I'm available for freelance projects, you can reach out to me.
   </tr>
   <tr>
     <td align="center">
+      <h2>🎨 AR Sketch Drawing</h2>
+      <img src="https://github.com/user-attachments/assets/a91a2349-5f92-4827-bdbc-50470e743663" width="400"/>
+    </td>
+    <td align="center">
+      <h2>🧩 2048 with Unique Design</h2>
+      <img src="https://github.com/user-attachments/assets/a91a2349-5f92-4827-bdbc-50470e743663" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <h2>🌤️ Weather Forecast</h2>
       <img src="https://github.com/user-attachments/assets/43b98fa2-2631-4034-a3ac-098c41efcfc1" width="400"/>
     </td>
@@ -62,5 +72,6 @@ I'm available for freelance projects, you can reach out to me.
     </td>
   </tr>
 </table>
+
 
 
