@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, This is Qamar Sultan</h1>
 <h3 align="center">A top-notch Flutter Developer from Pakistan</h3>
 
-I'm a skilled app developer in Flutter. I love to discover new things. 
-I enjoy creating interfaces that are easy to use and look great. 
-My aim always to make apps that stand out and give users a fantastic experience.
-I'm available for freelance projects, you can reach out to me.
+A passionate Flutter developer with strong expertise in cross-platform apps, REST APIs, UI/UX, widgets, and state management solutions. Proven track record in delivering cutting-edge solutions, including API integration, third-party libraries, and performance optimization. Skilled in debugging to ensure high-quality, responsive apps and an agile collaborator committed to staying current with industry trends.
+
+Additionally, experienced in developing robust and scalable Django APIs, ensuring seamless backend functionality and efficient data communication for modern applications.
+
+If you're looking for a dedicated Flutter and Django developer to bring your ideas to life and deliver exceptional results, I am ready to collaborate and make your vision a reality. Let's work together to create innovative solutions that exceed your expectations. Reach out today!
 
 - 🔭 I’m currently working in **Flutter**
+
+- 🔭 I’m currently Learning in **Python**
 
 - 📫 How to reach me **imqamarsultan.07@gmail.com**
 
